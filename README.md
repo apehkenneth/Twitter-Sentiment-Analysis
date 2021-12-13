@@ -8,3 +8,13 @@ Here are some selected celebrities/activists who have spoken out about this subj
 2. Ayodeji Ibrahim Balogun (aka Wizkid)
 3. Aisha Yesufu
 4. Folarin Falana (aka Falz)
+
+
+
+![David Adedeji Adeleke (aka Davido)](/davido.jpg)
+
+![Ayodeji Ibrahim Balogun (aka Wizkid)](/wizkid.jpg)
+
+![Aisha Yesufu](/Aisha%20Yesufu.jpg)
+
+![Folarin Falana (aka Falz)](/Falz.jpg)
